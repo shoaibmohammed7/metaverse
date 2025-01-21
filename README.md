@@ -21,3 +21,54 @@ This project is an innovative and immersive web development endeavor that aims t
 
 5. **Test-Driven Development (TDD)**
    - Includes comprehensive tests to ensure reliability and maintainability of the codebase.
+
+
+## Running the Project Locally. Setup and Installation  
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+   cd metaverse
+   ```
+
+2.Install dependencies for all components:
+
+```bash
+cd ../ws
+npm install
+
+cd ../http
+npm install
+
+cd ../frontend
+npm install
+
+```
+
+
+Running the Project
+
+1.Start the WebSocket server:
+
+```bash
+cd websocket-server
+npm run dev
+
+```
+
+2. Start the HTTP server:
+
+```bash
+cd http-server
+npm run dev
+```
+
+3. Start the frontend application:
+```bash
+cd frontend
+npm run dev
+
+```
+
+4.Access the application in your browser at http://localhost:5173 
