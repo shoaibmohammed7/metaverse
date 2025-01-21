@@ -28,7 +28,7 @@ This project is an innovative and immersive web development endeavor that aims t
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/shoaibmohammed7/metaverse/>
    cd metaverse
    ```
 
@@ -71,4 +71,4 @@ npm run dev
 
 ```
 
-4.Access the application in your browser at http://localhost:5173 
+4.Access the application in your browser at http://localhost:3001
