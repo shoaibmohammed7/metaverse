@@ -65,4 +65,5 @@ pc2.ontrack = (e) => {
   return attachVideo(v2, v2info, e.streams[0])
 }
 
+
 var update = (div, msg) => (div.innerHTML = msg)
